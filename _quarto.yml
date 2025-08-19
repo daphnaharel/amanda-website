@@ -9,10 +9,11 @@ website:
         text: Home
       - about.qmd
       - testimonials.qmd
+      - services.qmd
 
 format:
   html:
-    theme: lux
+    theme: sandstone
     css: styles.css
     toc: true
 
