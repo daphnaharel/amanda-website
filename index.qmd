@@ -1,0 +1,9 @@
+---
+title: "Amanda Iturbe"
+subtitle: "Learning Specialist and Executive Functioning Coach"
+image: amanda.jpg
+about:
+  template: jolla
+---
+
+This is the opening page
