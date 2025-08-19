@@ -1,0 +1,15 @@
+{
+  "hash": "73dd15481826e1af498526d1ad5c0c36",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About Amanda\"\n---\n\n\nAmanda Iturbe is a New York City-based educator and learning specialist with over 15 years experience helping your children reach their fullest potential. Amanda specializes in helping upper-elementary, middle, and high school children with subject area content - including math and science - and organization skills, time management, and executive functioning.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

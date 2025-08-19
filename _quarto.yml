@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Amanda Iturbe"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - testimonials.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
