@@ -2,29 +2,36 @@
   {
     "objectID": "testimonials.html",
     "href": "testimonials.html",
-    "title": "Testimonials from families",
+    "title": "Testimonials",
     "section": "",
     "text": "“Quote 1 goes here” - person one"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amanda Iturbe",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Education and Work Experience",
     "section": "",
-    "text": "This is the opening page"
+    "text": "I received my undergraduate degree from Hamilton College in sociology with a minor in education. I then obtained my Masters degree from Simmons College in Special Education in 2011.\nI have worked in school-based settings for the last 15 years. Through working as a one-on-one aide, a classroom teacher, and a learning specialist, I have learned that each child requires unique and personalized assistance. I am excited to bring the skills that I have gained through my previous work experiences to working with your child."
   },
   {
     "objectID": "services.html",
     "href": "services.html",
     "title": "Services and Contact",
     "section": "",
-    "text": "Amanda Iturbe offers in-person individual and small group tutoring and coaching in Lower Manhattan and many areas of Brooklyn. To learn more about how Amanda can help you and your children, as well as rates, packages, and options, contact Amanda by email amanda dot iturbe at gmail dot com."
+    "text": "I work with individual children and small groups for tutoring and executive functioning coaching in Lower Manhattan and many areas of Downtown Brooklyn. I am also familiar with the process of obtaining evaluations for children, and working with parents to guide them through the process of developing an IEP and accommodation plan for their child.\nI believe that the best way for children to learn is through in-person interactions and, therefore, I am not taking on virtual clients at this time.\nTo learn more about how I can help you and your children, as well as my rates, packages, and options, please contact me by email amanda dot iturbe at gmail dot com. I am happy to setup a 15 minute phone or zoom consultation call to discuss what options are best for you and your child."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amanda Iturbe",
+    "section": "",
+    "text": "I am a New York City-based educator and learning specialist with over 15 years experience helping children reach their full potential. I specialize in helping upper-elementary, middle, and high school children with subject area content - including math and science - and organization skills, time management, and executive functioning."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Amanda",
     "section": "",
-    "text": "Amanda Iturbe is a New York City-based educator and learning specialist with over 15 years experience helping your children reach their fullest potential. Amanda specializes in helping upper-elementary, middle, and high school children with subject area content - including math and science - and organization skills, time management, and executive functioning."
+    "text": "I am a New York City-based educator and learning specialist with over 15 years experience helping your children reach their full potential. I specialize in helping upper-elementary, middle, and high school children with subject area content - including math and science - and organization skills, time management, and executive functioning."
   }
 ]
